@@ -240,7 +240,7 @@ button {
 
   transition: transform 0.1s ease, box-shadow 0.15s ease,
 
-    background 0.15s ease, opacity 0.15s ease;
+  background 0.15s ease, opacity 0.15s ease;
 
   white-space: nowrap;
 
